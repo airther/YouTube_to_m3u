@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Smooth Brown Noise | General | https://i.ytimg.com/vi/l3_x4ByS3RY/hqdefault.jpg?v=66210d7f |
+Smooth Brown Noise | Other | https://i.ytimg.com/vi/l3_x4ByS3RY/hqdefault.jpg?v=66210d7f |
 https://www.youtube.com/watch?v=l3_x4ByS3RY
